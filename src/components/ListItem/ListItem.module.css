@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+.btn {
+
+    outline: none;
+    cursor: pointer;
+    min-width: 30px;
+    border: none;
+    font-size: 12px;
+    color: #fff;
+    line-height: 25px;
+    text-align: center;
+    background: #d65a57;
+    transition: background .3s ease;
+    margin-left: 30px;
+}
+
+.sign{
+    font-family: 'Pacifico';
+    font-size: 20px;
+
+}

@@ -1,0 +1,13 @@
+.alert{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 5px;
+    width: 120px;
+    height:60px;
+    text-align: center;
+    padding: 15px;
+    border: 5px solid #333;
+    background-color: beige;
+
+}
